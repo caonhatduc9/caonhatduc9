@@ -1,4 +1,4 @@
-##Duc Cao - HCMUS
+-Duc Cao - HCMUS
 
 <!---
 caonhatduc9/caonhatduc9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
